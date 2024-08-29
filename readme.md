@@ -1,6 +1,3 @@
-Here's a comprehensive README file for your Admin Dashboard project using Markdown format:
-
-````markdown
 # Admin Dashboard
 
 A simple HTML and CSS project created as part of [The Odin Project's](https://www.theodinproject.com) curriculum.
@@ -69,4 +66,7 @@ This project is a static dashboard layout that demonstrates a basic admin panel 
 
 - [The Odin Project](https://www.theodinproject.com) for the learning curriculum and project guidelines.
 - Icons from [Bootstrap Icons](https://icons.getbootstrap.com/) and [Google Material Icons](https://fonts.google.com/icons).
-````
+
+```
+
+```
