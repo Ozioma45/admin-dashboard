@@ -4,7 +4,7 @@ A simple HTML and CSS project created as part of [The Odin Project's](https://ww
 
 ## Live Preview
 
-You can view the live version of the Admin Dashboard [here](https://ozioma45.github.io/admin-dashboard/).
+Check out the live preview of the project [here](https://ozioma45.github.io/admin-dashboard/)
 
 ## Table of Contents
 
